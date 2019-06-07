@@ -1,1 +1,1 @@
-# DSI7-Capstone
+# Capstone Project done for DSI
